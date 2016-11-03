@@ -2,7 +2,7 @@
 Applied reinforcement learning techniques for a self-driving agent in a simplified world 
 to aid it in effectively reaching its destinations in the allotted time. 
 
-# install
+# Install
 This project is built in python, and upon the following Python libraries: Numpy, PyGame
 
 # Usage example
